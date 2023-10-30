@@ -130,135 +130,142 @@ LeaderIcons/Lady Six Sky
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Li Shimin
-  rotate: false
-  xy: 1060, 532
-  size: 255, 256
-  orig: 255, 256
-  offset: 0, 0
-  index: -1
-LeaderIcons/Liu Che
+LeaderIcons/Lady Trieu
   rotate: false
   xy: 796, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Mahatma Gandhi
+LeaderIcons/Li Shimin
+  rotate: false
+  xy: 1324, 796
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Liu Che
   rotate: false
   xy: 1060, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Mansa Musa
+LeaderIcons/Mahatma Gandhi
   rotate: false
   xy: 1324, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Mao Zedong
+LeaderIcons/Mansa Musa
   rotate: false
   xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Montezuma
+LeaderIcons/Mao Zedong
   rotate: false
   xy: 268, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Napoleon
+LeaderIcons/Montezuma
   rotate: false
   xy: 532, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Pachacuti
+LeaderIcons/Napoleon
   rotate: false
   xy: 796, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Pan Geng
+LeaderIcons/Pachacuti
   rotate: false
   xy: 1060, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Peter the Great
+LeaderIcons/Pan Geng
   rotate: false
   xy: 1324, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Philip II
+LeaderIcons/Peter the Great
   rotate: false
   xy: 1588, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Queen Seondeok
+LeaderIcons/Philip II
   rotate: false
   xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Saladin
+LeaderIcons/Queen Seondeok
   rotate: false
   xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Stalin
+LeaderIcons/Saladin
   rotate: false
   xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Suleiman
+LeaderIcons/Stalin
   rotate: false
   xy: 1060, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Tomyris
+LeaderIcons/Suleiman
   rotate: false
   xy: 1324, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Trajan
+LeaderIcons/Tomyris
   rotate: false
   xy: 1588, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Victoria
+LeaderIcons/Trajan
   rotate: false
   xy: 532, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Ying Zheng
+LeaderIcons/Victoria
   rotate: false
   xy: 796, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ying Zheng
+  rotate: false
+  xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
